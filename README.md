@@ -24,9 +24,6 @@
 
 ## Demonstration
 
-#### Hamiltonian
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 #### Qiskit Metal Layout
 ![App Screenshot](Images/qiskit2.png)
 
@@ -47,9 +44,6 @@ Must be rendered and simulated partially
 Must be rendered and simulated partially
 
 ![App Screenshot](Images/qiskit6.png)
-
-#### LOM Analysis
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 #### GDSII
 ![App Screenshot](Images/qiskit8.png)
